@@ -1,0 +1,15 @@
+package constants
+
+var ENV = []string{
+	"DB_USER",
+	"DB_PASS",
+	"DB_HOST",
+	"DB_NAME",
+	"RDB_ADDR",
+	"RDB_PASS",
+	"JWT_SECRET_KEY",
+	"JWT_SECRET_KEY_EXPIRE_MINUTES_COUNT",
+	"CACHE_TIMEOUT",
+	"EMAIL_PASSWORD",
+	"EMAIL_ID",
+}
