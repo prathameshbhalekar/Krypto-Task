@@ -1,7 +1,6 @@
 # Krypto-Task
-
+Task: [krypto-task.pdf](https://github.com/prathameshbhalekar/Krypto-Task/files/9265000/krypto-task.pdf)
 ## Instalation
-
 ### Fork
 
 Create your own copy of the project on GitHub. You can do this by clicking the Fork button  on the top right corner of the landing page of the repository.
