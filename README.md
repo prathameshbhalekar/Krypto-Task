@@ -58,4 +58,4 @@ Postman docs link: https://documenter.getpostman.com/view/13627665/Uzdv28Bz
 - [x] Caching for fetch alerts with redis
 - [x] Redis PUBSUB for email message queue
 - [x] Containerize with docker 
-- [ ] Work at Krypto ʕᵔᴥᵔʔ
+- [x] Work at Krypto ʕᵔᴥᵔʔ
